@@ -7,6 +7,7 @@ This is a primary version of our paper implementation.
 - `SEAL-4.0`: HE operations
 Merkle Tree use exists github repositories
 ## build & run
+0. `git submodule update --init --recursive`
 1. `mkdir build`
 2. `cmake --build build`
 
