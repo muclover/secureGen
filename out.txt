@@ -1,0 +1,12 @@
+**************  用户个数:20****************
+**************  测试结果数量:1000000****************
+**************  基本信息个数:5****************
+1.register time: 2.87479s
+2.generate commitment time: 0.000124774s
+3.request time: 1.49888s
+4.confirm time: 16.1601s
+5.submit time: 7.40544s
+6.result upload time: 12.3217s
+7.dispute time: 5.20458s
+8.self prove time: 0.0141318s
+总时间:45.48s

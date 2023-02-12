@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 2.8)
 
-project(libsnark-tutorial)
+project(secureGen)
+
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin )
 
 set(
   CURVE

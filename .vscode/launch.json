@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "let's debug", // debug 文件名
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/bin/test_service_confirm", // 构建后的可执行文件
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "let's make", // 执行调试的前置任务名
+            "MIMode": "gdb", // 必填（与哪个 debugger 通信）
+        }
+    ]
+}
